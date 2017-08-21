@@ -1,0 +1,10 @@
+fieldset {
+  margin-top: 30px;
+}
+input[type="button"] {
+  margin-top: 20px;
+}
+input[type="button"]:hover {
+  cursor: hand;
+}
+/*# sourceMappingURL=main.css.map */
